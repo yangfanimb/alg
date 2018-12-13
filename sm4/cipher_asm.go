@@ -4,7 +4,8 @@ package sm4
 
 import (
 	"crypto/cipher"
-	"internal/subtlex"
+
+	"github.com/yangfanimb/alg/internal/subtlex"
 )
 
 type sm4CipherAsm struct {

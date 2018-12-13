@@ -2,8 +2,9 @@ package sm4
 
 import (
 	"crypto/cipher"
-	"internal/subtlex"
 	"strconv"
+
+	"github.com/yangfanimb/alg/internal/subtlex"
 )
 
 const (
